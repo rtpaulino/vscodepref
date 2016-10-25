@@ -1,5 +1,6 @@
 {
     "editor.fontSize": 11,
     "editor.rulers": [80],
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline"
 }

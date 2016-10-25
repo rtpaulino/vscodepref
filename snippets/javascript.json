@@ -13,4 +13,24 @@
 		"description": "Log output to console"
 	}
 */
+	 "new Promise": {
+		 "prefix": "newprom",
+		 "body": [
+			 "return new Promise((resolve, reject) => {",
+			 "    $1",
+			 "});"
+		 ],
+		 "description": "Create a new promise"
+	 },
+	 "Node Callback Function": {
+		 "prefix": "cb",
+		 "body": [
+			 "(err, $1) => {",
+			 "    if (err) {",
+			 "        return reject(err);",
+			 "    }",
+			 "    return $1",
+			 "}"
+		 ]
+	 }
 }
