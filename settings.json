@@ -1,5 +1,9 @@
 {
+    "editor.wrappingColumn": 600,
     "editor.fontSize": 11,
+    "search.exclude": {
+        "**/build": true
+    },
     "editor.rulers": [80],
     "editor.renderWhitespace": "all",
     "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
