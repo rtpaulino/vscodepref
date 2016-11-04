@@ -2,8 +2,8 @@
     "editor.wrappingColumn": 600,
     "editor.fontSize": 11,
     "search.exclude": {
-        "**/build": true,
-        "**/dist": true
+        "**/build/**": true,
+        "**/dist/**": true
     },
     "editor.rulers": [80],
     "editor.renderWhitespace": "all",
