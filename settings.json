@@ -9,5 +9,6 @@
     "editor.renderWhitespace": "all",
     "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
     "terminal.integrated.fontLigatures": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "files.eol": "\n"
 }
